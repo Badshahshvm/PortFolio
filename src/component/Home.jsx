@@ -31,7 +31,7 @@ const Home = () => {
           <h2 ref={typedRef}></h2>
 
           <a
-            href={pdf}
+            href="https://drive.google.com/file/d/1uyP8Q-EpakAyKGwwRpcjxhIj0mYu5GjY/view?usp=drivesdk "
             download="Resume.pdf"
             className="btn btn-outline-warning my-3"
           >
